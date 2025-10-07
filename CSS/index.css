@@ -1,0 +1,28 @@
+.formControl{
+    padding: 50px;
+}
+
+.title{
+    padding-bottom: 50px;
+}
+
+h1{
+    padding-bottom: 30px;
+}
+
+.btnAgregar{
+    
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.btnAcciones{
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.tableMovie{
+    padding-left: 50px;
+    padding-right: 50px;
+}
